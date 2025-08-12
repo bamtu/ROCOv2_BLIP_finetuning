@@ -1,0 +1,2 @@
+# ROCOv2_BLIP_finetuning
+BLIP_finetuning_with_ROCOv2_dataset
